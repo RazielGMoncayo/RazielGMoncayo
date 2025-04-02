@@ -1,6 +1,6 @@
 <h1>Hello there 👋</h1> 
 
-<p> 🌱 I'm Raziel, Developer Jr <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></p>
+<p> 🌱 I'm Raziel<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></p>
 <p>🤓 Welcome to my GitHub profile. Here you’ll find more about my professional journey and the technical skills I’ve been picking up along the way.</p>
 <p> 🌍 I’m a big fan of connecting with new people, learning new things, and applying my skills to solve real-world problems :)</p>
 
