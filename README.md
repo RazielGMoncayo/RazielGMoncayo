@@ -18,6 +18,18 @@
 <img align="left" alt="MATLAB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" style="padding-right:10px;" />
 <br style="clear:both;" /> 
 
-<h2>My projects</h2>
-<p>Here are some of the projects I've been working on:</p>
-<!-- My portfolio -->
+## My Projects
+
+Here are some of the projects I've been working on:
+
+### Portfolio Project
+  <span style="display: inline-flex; gap: 10px;">
+    <a href="https://github.com/RazielGMoncayo/myPortfolioRGM">
+      <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="GitHub Repo" target="_blank" >
+    </a>
+    <a href="https://razielgmoncayo.github.io/myPortfolioRGM/">
+      <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge" alt="Live Demo" target="_blank">
+    </a>
+  </span>
+  
+  A personal portfolio showcasing my work and skills.
