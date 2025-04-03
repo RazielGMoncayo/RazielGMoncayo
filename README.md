@@ -22,7 +22,7 @@
 
 
 Here are some of the projects I've been working on.  
-You'll be able to explore my repositories where you'll find detailed README files.
+You'll be able to explore my repositories where you'll find detailed README files.  
 I've documented not just what I built, but exactly how I built it, including:
 
 - **My development process** from idea to implementation
