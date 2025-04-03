@@ -24,11 +24,11 @@ Here are some of the projects I've been working on:
 
 ### Portfolio Project
   <span style="display: inline-flex; gap: 10px;">
-    <a href="https://github.com/RazielGMoncayo/myPortfolioRGM">
-      <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="GitHub Repo" target="_blank" >
+    <a href="https://github.com/RazielGMoncayo/myPortfolioRGM" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="GitHub Repo">
     </a>
-    <a href="https://razielgmoncayo.github.io/myPortfolioRGM/">
-      <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge" alt="Live Demo" target="_blank">
+    <a href="https://razielgmoncayo.github.io/myPortfolioRGM/" target="_blank">
+      <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge" alt="Live Demo" >
     </a>
   </span>
   
