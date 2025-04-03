@@ -20,7 +20,11 @@
 
 ## My Projects
 
-Here are some of the projects I've been working on:
+
+Here are some of the projects I've been working on. I invite you to explore my repositories where you'll find detailed README files - I've documented not just what I built, but exactly how I built it, including:
+
+- **My development process** from idea to implementation
+- **Technical decisions** and why I made them
 
 ### Portfolio Project
   <span style="display: inline-flex; gap: 10px;">
@@ -28,7 +32,7 @@ Here are some of the projects I've been working on:
       <img src="https://img.shields.io/badge/GitHub-Repo-blue?style=for-the-badge&logo=github" alt="GitHub Repo">
     </a>
     <a href="https://razielgmoncayo.github.io/myPortfolioRGM/" target="_blank" rel="noopener noreferrer">
-      <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge" alt="Live Demo" >
+      <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge" alt="Live Demo">
     </a>
   </span>
   
